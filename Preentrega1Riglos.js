@@ -1,5 +1,5 @@
-let inver = parseInt(prompt("Ingrese un número: "));
-let tiempo = parseInt(prompt("Ingrese meses: "));
+let inver = parseInt(prompt("Ingrese un el importe de dinero que quiere invertir: "));
+let tiempo = parseInt(prompt("Ingrese la cantidad de meses: "));
 let tasa = 1.18;
 let mes = 0;
 let tasatea = 1.763
